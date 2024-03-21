@@ -16,7 +16,7 @@
 - 🔥 [https://www.linkedin.com/in/chanik-kwao-agboado](https://www.linkedin.com/in/chanik-kwao-agboado)
 - <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,github,go,html,linkedin,matlab,mongodb,mysql,postgres,powershell,py,r,stackoverflow,tensorflow,twitter,visualstudio,vscode,atom" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,github,go,html,linkedin,matlab,mongodb,mysql,postgres,powershell,py,r,stackoverflow,tensorflow,twitter,visualstudio,vscode,atom,ai" />
   </a>
 </p>
 

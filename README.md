@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Chanik K
-- 👀 I’m interested in Data Analysis | Data Science | Backend Developments opportunities
+- 👀 I’m interested in Data Analysis | Data Science | Backend Developments | Artificial Intelligence | Bopportunities
 - 🌱 I’m currently learning Image processing, Deep learning, CV
 - 💞️ I’m looking to collaborate on Data science projects, Backend Development, and start-up ideas
 - 📫 How to reach me chanik@farmerline.co | stv.yao@gmail.com | +233245125589
 - ✅ Join me to do interesting things together!
 - 🔭 I’m currently working on building Generative AI products
 - 🌱 I’m currently learning ALX Software Engineering
+- ✅ ALX AICE Student!
 - 👯 I’m looking to collaborate on PowerBi, ML, AI 
 - 🤔 I’m looking for help with Hiring and partnerships
 - 💬 Ask me about my startup ideas
